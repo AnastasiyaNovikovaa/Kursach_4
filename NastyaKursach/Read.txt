@@ -1,0 +1,10 @@
+S Z 16
+S D 13
+Z D 10
+D Z 4
+Z K 12
+K D 9
+O P 14
+P K 7
+P T 4
+K T 20
